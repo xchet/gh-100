@@ -25,7 +25,7 @@ Deploy changes.
 Practice
 
 create an issue for a tast or bug
-assign the issue to a tem member
+assign the issue to a team member
 Link the issue to a pull request
 Discuss changes in PR comments
 Close the issue when merged
