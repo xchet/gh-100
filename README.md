@@ -30,3 +30,10 @@ Link the issue to a pull request
 Discuss changes in PR comments
 Close the issue when merged
 
+# Github platform management
+Platform management ensures repo are structured, access is controlled, and policies are enforced consistently
+
+# What is GitHub Administration
+GitHub administration focuses on managing identities, permissions, policies, and security controls accross repos and orgs
+
+
