@@ -301,3 +301,7 @@ trigger
 jobs
 steps
 actions
+
+Runner - two type
+Github Hosted
+Self-hosted
