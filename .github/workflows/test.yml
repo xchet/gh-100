@@ -1,0 +1,12 @@
+name: Greeting Workflow
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Run greeting script
+        run: echo "Hello, World!"
+      - name: Run tests
+        run: echo "Running tests..."
