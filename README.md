@@ -305,3 +305,12 @@ actions
 Runner - two type
 Github Hosted
 Self-hosted
+
+
+# M9 GitHub Packages
+
+What is GitHub Packages?
+Github packages is a secure package hosting  and distribution plaftorm that is natiively integrated with GitHub repositories, identities and permissions.
+
+
+Dev pushes code > GitHub action workflow runs > Test build artifact > Package is published to GitHub packages
