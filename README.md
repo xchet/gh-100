@@ -25,8 +25,18 @@ Deploy changes.
 Practice
 
 create an issue for a tast or bug
-assign the issue to a tem member
+assign the issue to a team member
 Link the issue to a pull request
 Discuss changes in PR comments
 Close the issue when merged
 
+<<<<<<< HEAD
+=======
+# Github platform management
+Platform management ensures repo are structured, access is controlled, and policies are enforced consistently
+
+# What is GitHub Administration
+GitHub administration focuses on managing identities, permissions, policies, and security controls accross repos and orgs
+
+
+>>>>>>> e440580fba43d4be193a5773bbcc63909043547f
